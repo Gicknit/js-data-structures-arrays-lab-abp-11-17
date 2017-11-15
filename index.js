@@ -1,7 +1,7 @@
 // Write your solution here!
 
 function drivers(){
-  drivers = ["Milo", "Otis", "Garfield"]
+  const drivers = ["Milo", "Otis", "Garfield"]
 }
 //const drivers = ["Milo", "Otis", "Garfield"]
 
